@@ -47,5 +47,4 @@ Create a `.env` file in the root directory of your project to store the required
 
 - **Benedict Igbukolu**
 - **Daniel Izevbije**
-- **Suara Ayomide**
-- **Eric Alaribe**
+- **Suara & Eric**
